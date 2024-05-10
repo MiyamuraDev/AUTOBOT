@@ -2,7 +2,7 @@ const moment = require("moment-timezone");
 const axios = require('axios');
 
 module.exports.config = {
-    name: "ai",
+    name: "heru",
     version: "1.0.0",
     hasPermission: 0,
     credits: "api by jerome",//api by jerome
