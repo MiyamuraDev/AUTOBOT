@@ -2,15 +2,15 @@ body {
     padding: 20px;
     background-color: #0e0e0e;
     font-family: 'Poppins', sans-serif;
-    color: #fff;
-    background-image: url('https://media4.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=6c09b952uys1wv9s8v4hnc7dbo339rgcjiunfvyovq9u6m5n&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+    color: #000000;
+    background-image: url('https://i.imgur.com/BIpVbZw.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 .container {
-    background-image: url('https://media4.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=6c09b952uys1wv9s8v4hnc7dbo339rgcjiunfvyovq9u6m5n&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+    background-image: url('https://i.imgur.com/BIpVbZw.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgba(26, 26, 26, 0.8);
@@ -57,14 +57,14 @@ label {
 }
 
 .btn-primary {
-    background-color: red;
-    border: 1px solid red;
+    background-color: #ff9191;
+    border: 1px solid #ff9191;
     color: #fff;
 }
 
 .btn-primary:hover {
-    background-color: #0056b3;
-    border: 1px solid #0056b3;
+    background-color: #7a7a7a;
+    border: 1px solid #7a7a7a;
 }
 
 .success-message {
@@ -77,9 +77,9 @@ label {
     padding: 10px;
     text-align: center;
     font-size: 16px;
-    color: red;
+    color: #9191ff;
     margin-top: 50px;
-    border-top: 1px solid red;
+    border-top: 1px solid #9191ff;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -151,7 +151,7 @@ label {
 }
 
 #json-data {
-    background-image: url('https://media2.giphy.com/media/A608loAlQgF4ag7k4m/giphy.gif?cid=6c09b952vhagzn9t9zcznwjusfc3o94h236aj60uvmag2pl5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+    background-image: url('https://i.imgur.com/A0gjJDd.gif');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -161,7 +161,7 @@ label {
 }
 
 #listOfCommands:not(.modal), #listOfCommandsEvent:not(.modal), #prefixOfCommands:not(.modal), #adminOfCommands:not(.modal) {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 10px 20px rgb(130, 130, 130, 0.3), 0 6px 6px rgb(125, 125, 125, 0.23);
 }
 
 .container h1 {
@@ -169,7 +169,7 @@ label {
     display: inline-block;
     padding: 10px 20px;
     margin-bottom: 20px;
-    background-color: #222;
+    background-color: #9e8c82;
     border-radius: 5px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
@@ -205,5 +205,6 @@ label {
     }
     video {
     width: 100%;
-    border: 5px solid violet;
+    border: 5px solid #000075;
     }
+
